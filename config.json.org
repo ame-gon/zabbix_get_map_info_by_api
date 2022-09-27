@@ -1,0 +1,7 @@
+{
+    "zbx_host" : "192.168.0.1",
+    "zbx_login_user" : "Admin",
+    "zbx_login_password" : "zabbix",
+    "rpc_path" : "http://192.168.0.1/zabbix/api_jsonrpc.php",
+    "zbx_version" : "X.X.X"
+}
